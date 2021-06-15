@@ -4,5 +4,5 @@
 
 | Title      | Link |
 | ----------- | ----------- |
-| README      | [README.md](https://tareq-zeyad.github.io/01b-Learning-Markdown-/)      |
-| Read01   | [Read01](https://tareq-zeyad.github.io/01b-Learning-Markdown-/Read01)      |
+| Growth Mindset      |   [README.md](https://tareq-zeyad.github.io/01b-Learning-Markdown-/GrowthMindset)      |
+| Read01   |  [Read01](https://tareq-zeyad.github.io/01b-Learning-Markdown-/Read01)      |
