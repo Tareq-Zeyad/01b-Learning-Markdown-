@@ -6,4 +6,4 @@
 | ----------- | ----------- |
 | Growth Mindset      |   [README.md](https://tareq-zeyad.github.io/01b-Learning-Markdown-/GrowthMindset)      |
 | What is Markdown   |   [link for Read01](https://tareq-zeyad.github.io/01b-Learning-Markdown-/Read01) |
-| read02   |   [link for Read02](https://tareq-zeyad.github.io/01b-Learning-Markdown-/Read02) |
+| Git   |   [link for Read02](https://tareq-zeyad.github.io/01b-Learning-Markdown-/Read02) |
