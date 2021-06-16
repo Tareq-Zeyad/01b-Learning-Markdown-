@@ -5,5 +5,5 @@
 | Title      | Link |
 | ----------- | ----------- |
 | Growth Mindset      |   [README.md](https://tareq-zeyad.github.io/Reading-Notes/GrowthMindset)      |
-| Learning Markdown   |   [link for Read01](https://tareq-zeyad.github.io/Reading-Notes/LearningMarkdown) |
-| Git   |   [link for Read02](https://tareq-zeyad.github.io/Reading-Notes/Git) |
+| Read01   |   [link for Read01](https://tareq-zeyad.github.io/Reading-Notes/Read01) |
+| Read02   |   [link for Read02](https://tareq-zeyad.github.io/Reading-Notes/Read02) |
