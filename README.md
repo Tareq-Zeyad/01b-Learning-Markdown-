@@ -7,4 +7,4 @@
 | Growth Mindset      |   [README.md](https://tareq-zeyad.github.io/Reading-Notes/GrowthMindset)      |
 | Read01   |   [link for Read01](https://tareq-zeyad.github.io/Reading-Notes/Read01) |
 | Read02   |   [link for Read02](https://tareq-zeyad.github.io/Reading-Notes/Read02) |
-| Read03 | [link for Read03]()
+| Read03 | [link for Read03](https://tareq-zeyad.github.io/Reading-Notes/Read03)

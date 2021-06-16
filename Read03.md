@@ -28,10 +28,9 @@
 #### 1. <footer>
 #### 2. <header>
 #### 3. <main>
-#### 4. <mark>
+#### 4. <li>
 #### 5. <nav>
 #### 6.<section>
-#### 7. <li>
 
 ![Semantics Elements](https://learntechsystems.com/wp-content/uploads/2020/08/elements.png)
 
