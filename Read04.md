@@ -1,5 +1,5 @@
 ## **JavaScript**
-###  JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programming language with first-class functions. While it is most well-known as the scripting language for Web pages. *Interpreter* means the **Translator** it is like a third party that translates the code to a machine in order to understands it.
+####  JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programming language with first-class functions. While it is most well-known as the scripting language for Web pages. *Interpreter* means the **Translator** it is like a third party that translates the code to a machine in order to understands it.
 ### A translator type is:
 #### 1. Interpreter: Exceeds the code line by line.
 #### 2. Compiler: Exceeds all the code at once.
@@ -14,8 +14,8 @@
 #### 4. Semantic: The meaning of an expression.
 
 ## **Input & Output in JS**:
-### 1. ### <input id="first_name">
-### 2. ### <input id="last_name">
+### 1. (input id="first_name")
+### 2. (input id="last_name")
 ### 3. To print output use console.log()
 ### 4. also other than input we can simply enter variable, var = 'string', number, ...etc
 

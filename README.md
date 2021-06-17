@@ -9,3 +9,4 @@
 | Read02   |   [link for Read02](https://tareq-zeyad.github.io/Reading-Notes/Read02) |
 | Read03 | [link for Read03](https://tareq-zeyad.github.io/Reading-Notes/Read03)
 | Read04 | [link for Read04](https://tareq-zeyad.github.io/Reading-Notes/Read04)
+| Read05 | [link for Read05](https://tareq-zeyad.github.io/Reading-Notes/Read05)
