@@ -44,6 +44,6 @@
 ![for](https://www.javascripttutorial.net/wp-content/uploads/2020/01/JavaScript-for-Loop.png)
 ### * So whenever we need like a counter to repeat the code line till its exceeds, we use for loop.*
 ### *While loop*
-### *The do...while statement repeats until a specified condition evaluates to false. it will kept running the condtion until false value to ended it*
+### *The while statement repeats until a specified condition evaluates to false. it will kept running the condtion until false value to ended it*
 ![while](https://www.bookofnetwork.com/images/javascript-images/JS_while-syntx_24Feb17_1743.png  )
 
