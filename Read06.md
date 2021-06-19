@@ -19,3 +19,8 @@
 #### * Inline styles are applied directly to an element in your HTML code. They use the style attribute, followed by regular CSS properties.*
 ![css types](https://www.bitdegree.org/learn/storage/media/images/8c4493d3-110c-4a95-8b70-7626ce2d2f4e.jpg)
 
+## ***CSS Colors***
+#### *A property that describe the text color, also to add color to the background we use background-color, each color has its own name & we can choose color via colorhunt.com*
+![Color](https://curriculum-content.s3.amazonaws.com/fewds/css-syntax.png)
+
+
