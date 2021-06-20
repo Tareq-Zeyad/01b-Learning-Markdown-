@@ -11,5 +11,6 @@
 | Read04 | [link for Read04](https://tareq-zeyad.github.io/Reading-Notes/Read04)
 | Read05 | [link for Read05](https://tareq-zeyad.github.io/Reading-Notes/Read05)
 | Read06 | [link for Read06](https://tareq-zeyad.github.io/Reading-Notes/Read06)
+| Read 07 | [link for Read07](https://tareq-zeyad.github.io/Reading-Notes/Read07)
 
 
