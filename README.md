@@ -5,7 +5,7 @@
 
 | Title      | Link |
 | ----------- | ----------- |
-| Growth Mindset      |  [README.md](https://tareq-zeyad.githubio/Reading-Notes/102.md/GrowthMindset) |
+| Growth Mindset      |  [README.md](https://tareq-zeyad.github.io/Reading-Notes/102.md/GrowthMindset) |
 | Read01   |   [Markdown](https://tareq-zeyad.github.io/Reading-Notes/102.md/Read01) |
 | Read02   |   [Git](https://tareq-zeyad.github.io/Reading-Notes/102.md/Read02) |
 | Read03 | [Wireframe](https://tareq-zeyad.github.io/Reading-Notes/102.md/Read03) |
@@ -14,5 +14,25 @@
 | Read06 | [CSS](https://tareq-zeyad.github.io/Reading-Notes/102.md/Read06) |
 | Read 07 | [Functions](https://tareq-zeyad.github.io/Reading-Notes/102.md/Read07) |
 
+
+## **Code 201 Reading Notes**
+
+| Title      | Link |
+| ----------- | ----------- |
+| Read01    |  [Intro HTML & JS](https://tareq-zeyad.github.io/Reading-Notes/201.md/Read01) |
+| Read02   |   [Basic HTML,CSS & JS](https://tareq-zeyad.github.io/Reading-Notes/201.md/Read02) |
+| Read03 | [Lists,Boxes & Control flow](https://tareq-zeyad.github.io/Reading-Notes/201.md/Read03) |
+| Read04 | [Links,layout & Functions](https://tareq-zeyad.github.io/Reading-Notes/201.md/Read04) |
+| Read05 | [Images,colors & Texts](https://tareq-zeyad.github.io/Reading-Notes/201.md/Read05) |
+| Read06 | [JS Object Literals](https://tareq-zeyad.github.io/Reading-Notes/201.md/Read06) |
+| Read 07 | [HTML Tables; JS Constructor Functions](https://tareq-zeyad.github.io/Reading-Notes/201.md/Read07) |
+| Read08    |  [More CSS Layout](https://tareq-zeyad.github.io/Reading-Notes/201.md/Read08) |
+| Read09  |   [Forms and Events](https://tareq-zeyad.github.io/Reading-Notes/201.md/Read09) |
+| Read10 | [JS Debugging](https://tareq-zeyad.github.io/Reading-Notes/201.md/Read10) |
+| Read11 | [Assorted Topics](https://tareq-zeyad.github.io/Reading-Notes/201.md/Read11) |
+| Read12 | [ Docs for the HTML <canvas> Element & Chart.js](https://tareq-zeyad.github.io/Reading-Notes/201.md/Read12) |
+| Read13 | [Local Storage](https://tareq-zeyad.github.io/Reading-Notes/201.md/Read13) |
+| Read 14a | [CSS Transforms, Transitions, and Animations](https://tareq-zeyad.github.io/Reading-Notes/201.md/Read14a)|
+| Read 14b | [ What Google Learned About Teams](https://tareq-zeyad.github.io/Reading-Notes/201.md/Read14b)|
 
 
