@@ -5,13 +5,13 @@
 | Title      | Link |
 | ----------- | ----------- |
 | Growth Mindset      |  [README.md](https://tareq-zeyad.githubio/Reading-Notes/102.md/GrowthMindset.md) |
-| Read01   |   [link for Read01](https://tareq-zeyad.github.io/Reading-Notes/102.md/Read01.md) |
-| Read02   |   [link for Read02](https://tareq-zeyad.github.io/Reading-Notes/102.md/Read02.md) |
-| Read03 | [link for Read03](https://tareq-zeyad.github.io/Reading-Notes/102.md/Read03.md)
-| Read04 | [link for Read04](https://tareq-zeyad.github.io/Reading-Notes/102.md/Read04.md)
-| Read05 | [link for Read05](https://tareq-zeyad.github.io/Reading-Notes/102.md/Read05.md)
-| Read06 | [link for Read06](https://tareq-zeyad.github.io/Reading-Notes/102.md/Read06.md)
-| Read 07 | [link for Read07](https://tareq-zeyad.github.io/Reading-Notes/102.md/Read07.md)
+| Read01   |   [Markdown](https://tareq-zeyad.github.io/Reading-Notes/102.md/Read01.md) |
+| Read02   |   [Git](https://tareq-zeyad.github.io/Reading-Notes/102.md/Read02.md) |
+| Read03 | [Wireframe](https://tareq-zeyad.github.io/Reading-Notes/102.md/Read03.md) |
+| Read04 | [JavaScript](https://tareq-zeyad.github.io/Reading-Notes/102.md/Read04.md) |
+| Read05 | [Exp,Opr,Comp](https://tareq-zeyad.github.io/Reading-Notes/102.md/Read05.md) |
+| Read06 | [CSS](https://tareq-zeyad.github.io/Reading-Notes/102.md/Read06.md) |
+| Read 07 | [Functions](https://tareq-zeyad.github.io/Reading-Notes/102.md/Read07.md) |
 
 
 
