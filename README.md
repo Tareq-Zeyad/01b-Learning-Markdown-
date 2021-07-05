@@ -1,6 +1,10 @@
 ## **Intro**
 
-#### Hello all :heart: My name is Tariq Sharaia طارق الشرايعة I am 25 years old Mechanical Engineer with 1 year experience at Industrial Manufacturing. I am glad that I am here between creative minds from different backgrounds. one of the reasons why I am taking this course is because I am looking to a career shift in the near future in tech field.  I wish good luck to all, thank you.
+#### Hello all :heart: My name is Tariq Sharaia I am 25 years old Mechanical Engineer with 1 year experience at Industrial Manufacturing. I am glad that I am here between creative minds from different backgrounds. one of the reasons why I am taking this course is because I am looking to a career shift in the near future in tech field.  I wish good luck to all, thank you.
+
+## **Reading Notes**
+#### Here you can find all my readings assignments throughout the course, the best practice I learnt is Skim Reading to completely understands the concepts & summarize the outlines in a sense & simple form as I am presenting material to non technical personnel.
+
 ## **Code 102 Reading Notes**
 
 | Title      | Link |
