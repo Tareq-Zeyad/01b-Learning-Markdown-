@@ -1,6 +1,10 @@
 ## **Ch 2. Text**
+<<<<<<< HEAD
 #### HTML provides various elements(tags) to describe each part of text of the html file. We did mention earlier the main tags such as head, body & so on. Now we will dive deeper to more detailed text tags.
 
+=======
+#### HTML provides various elements(tags) to describe each part of text of the html file. We did mention earlier the main tags such as head, body & so on. Now we will dive deeper to more detailed text tags. 
+>>>>>>> 89f54e29527db8c03140e9a6d5d6649f45906c64
 #### Important tags to construct well written html file:
 - Headings: from the most signifcant <h1> to the least one <h6> these denotes the importance of heading title.
 - Paragraphs: for writing well orgnaized articles we need paragrapgh, start with <p> write what needed & close with </p>.
