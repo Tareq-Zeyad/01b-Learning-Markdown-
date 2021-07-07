@@ -20,7 +20,7 @@
 - ### **Absolute positioning**: oves an element completely out of the page's normal layout flow, like it is sitting on its own separate layer.
 
 ## **Ch. 3 Functions, Methods, and Objects**
-- ### **Functions**: Statements in JS that can Reuse the same code any number of times, from different parts of the script. To perform a specific task. Functions execute when they are called.
+- ### **Functions**: Statements in JS that can Reuse the same code any number of times, from different parts of the script. To perform a specific task. Functions execute when they are called
 
 ![functions](https://cdn.programiz.com/cdn/farfuture/oAZVf3IqOKOYj_aJ-IoYQvbJ2CB-B3y4HXSLXBUmYcY/mtime:1591592163/sites/tutorial2program/files/javascript-function-with-parameter.png)
 
