@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## **Ch. 4 Links.**
 ### Links are used to navigate the user into another webpages that are relevant to the original site. HTML links are hyperlinks. You can click on a link and jump to another document. When you move the mouse over a link, the mouse arrow will turn into a little hand.
 
@@ -30,7 +29,7 @@
 ### 3- Set the statements to be evaluated in a code block within curely brackets.
 ### 4- Invoking or calling a function is writing it name followed by ().
 
-=======
+
 ## **Ch. 4 Links.**
 ### Links are used to navigate the user into another webpages that are relevant to the original site. HTML links are hyperlinks. You can click on a link and jump to another document. When you move the mouse over a link, the mouse arrow will turn into a little hand.
 
@@ -61,4 +60,3 @@
 ### 2- Give it a name.
 ### 3- Set the statements to be evaluated in a code block within curely brackets.
 ### 4- Invoking or calling a function is writing it name followed by ().
->>>>>>> 098955ed56e17b4a28bf27f2bcd14db3d4ad0299
