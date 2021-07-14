@@ -14,4 +14,12 @@
 ![table](https://gocoding.org/wp-content/uploads/2020/06/HTML-Table-Syntax.png)
 
 ## **Ch. 3 Functions, Methods, and Objects**.
-### I will write this part later on I need to read carefully about objects to understand it better.
+### In JavaScript a function is considered as an object.
+- ### **Primitives (string, number, null, boolean, undefined, symbol)**: these are immutable data types. They are not objects, don’t have methods and they are stored in memory by value.
+- ### **Non-Primitives (functions, arrays and objects):** these are mutable data types. They are objects and they are stored in memory by reference.
+
+![methods](https://res.cloudinary.com/academind-gmbh/image/upload/f_auto,q_auto/c_fit,dpr_3.0,g_center,w_500/v1/academind.com/content/tutorials/javascript-functions-are-objects/functions-are-objects)
+
+- ### JavaScript methods are actions that can be performed on objects. A JavaScript method is a property containing a function definition.
+
+![methods](https://cf.ppt-online.org/files/slide/z/ZQB7W6CTo0jgKzhF5VLlfNdbm1HPD2exvrSG9q/slide-41.jpg)
