@@ -1,13 +1,13 @@
-## **Intro**
+## **Intro.**
 
-#### Hello all :heart: My name is Tariq Sharaia طارق الشرايعة I am 25 years old Mechanical Engineer with 1 year experience at Industrial Manufacturing. I am glad that I am here between creative minds from different backgrounds. one of the reasons why I am taking this course is because I am looking to a career shift in the near future in tech field.  I wish good luck to all, thank you.
-
-
-## **Reading Notes**
-#### Here you can find all my readings assignments throughout the course, the best practice I learnt is Skim Reading to completely understands the concepts & summarize the outlines in a sense & simple form as I am presenting material to non technical personnel.
+#### Hello all :heart: My name is Tariq Sharaia. I am 25 years old Mechanical Engineer with 1 year experience at Industrial Manufacturing. I am glad that I am here between creative minds from different backgrounds. one of the reasons why I am taking this course is because I am looking to a career shift in the near future in tech field.  I wish good luck to all my collauges, thank you.
 
 
-## **Code 102 Reading Notes**
+## **Reading Notes.**
+#### Here you can find all my readings assignments throughout the course. The best practice I learnt is Skim Reading to completely understands the concepts & summarize the outlines in a sense & simple form as I am presenting material to non technical personnel.
+
+
+## **Code 102 Intro to Software Development.**
 
 | Title      | Link |
 | ----------- | ----------- |
@@ -21,7 +21,7 @@
 | Read 07 | [Functions](https://tareq-zeyad.github.io/Reading-Notes/102.md/Read07) |
 
 
-## **Code 201 Reading Notes**
+## **Code 201 Foundations of Software Development.**
 
 | Title      | Link |
 | ----------- | ----------- |
@@ -42,3 +42,20 @@
 | Read 14b | [ What Google Learned About Teams](https://tareq-zeyad.github.io/Reading-Notes/201.md/Read14b)|
 
 
+## **Code 301 Intermediate Software Development.**
+
+| Title      | Link |
+| ----------- | ----------- |
+| Read01    |  [Introduction to React and Components](https://tareq-zeyad.github.io/Reading-Notes/301.md/Read01) |
+| Read02   |   [State and Props](https://tareq-zeyad.github.io/Reading-Notes/301.md/Read02) |
+| Read03 | [Passing Functions as Props](https://tareq-zeyad.github.io/Reading-Notes/301.md/Read03) |
+| Read04 | [React and Forms](https://tareq-zeyad.github.io/Reading-Notes/301.md/Read04) |
+| Read05 | [Putting it all together](https://tareq-zeyad.github.io/Reading-Notes/301.md/Read05) |
+| Read06 | [NODE.JS](https://tareq-zeyad.github.io/Reading-Notes/301.md/Read06) |
+| Read 07 | [REST](https://tareq-zeyad.github.io/Reading-Notes/301.md/Read07) |
+| Read08    |  [APIs](https://tareq-zeyad.github.io/Reading-Notes/301.md/Read08) |
+| Read09  |   [FUNCTIONAL PROGRAMMING](https://tareq-zeyad.github.io/Reading-Notes/301.md/Read09) |
+| Read10 | [ In memory storage](https://tareq-zeyad.github.io/Reading-Notes/301.md/Read10) |
+| Read11 | [Authentication](https://tareq-zeyad.github.io/Reading-Notes/301.md/Read11) |
+| Read12 | [ Mongo and Mongoose](https://tareq-zeyad.github.io/Reading-Notes/301.md/Read12) |
+| Read13 | [CRUD](https://tareq-zeyad.github.io/Reading-Notes/301.md/Read13) |
