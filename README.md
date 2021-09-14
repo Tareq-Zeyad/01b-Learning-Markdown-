@@ -59,3 +59,4 @@
 | Read11 | [Authentication](https://tareq-zeyad.github.io/Reading-Notes/301.md/Read11) |
 | Read12 | [ Mongo and Mongoose](https://tareq-zeyad.github.io/Reading-Notes/301.md/Read12) |
 | Read13 | [CRUD](https://tareq-zeyad.github.io/Reading-Notes/301.md/Read13) |
+| Read14 | [Diversity & Inclusion in the Tech Industry](https://tareq-zeyad.github.io/Reading-Notes/301.md/Read14) |
