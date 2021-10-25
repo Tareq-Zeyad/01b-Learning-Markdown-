@@ -60,3 +60,27 @@
 | Read12 | [ Mongo and Mongoose](https://tareq-zeyad.github.io/Reading-Notes/301.md/Read12) |
 | Read13 | [CRUD](https://tareq-zeyad.github.io/Reading-Notes/301.md/Read13) |
 | Read14 | [Diversity & Inclusion in the Tech Industry](https://tareq-zeyad.github.io/Reading-Notes/301.md/Read14) |
+
+## **Code 401 Advanced Software Development.**
+
+| Title      | Link |
+| ----------- | ----------- |
+| Read01    |  [Topic](https://tareq-zeyad.github.io/Reading-Notes/401.md/Read01) |
+| Read02   |   [Testing and Modules](https://tareq-zeyad.github.io/Reading-Notes/401.md/Read02) |
+| Read03 | [FileIO & Exceptions](https://tareq-zeyad.github.io/Reading-Notes/401.md/Read03) |
+| Read04 | [Topic](https://tareq-zeyad.github.io/Reading-Notes/401.md/Read04) |
+| Read05 | [Implementation: Linked Lists](https://tareq-zeyad.github.io/Reading-Notes/401.md/Read05) |
+| Read06 | [Game of Greed 1](https://tareq-zeyad.github.io/Reading-Notes/401.md/Read06) |
+| Read 07 | [Game of Greed 2](https://tareq-zeyad.github.io/Reading-Notes/401.md/Read07) |
+| Read08    |  [Game of Greed 3](https://tareq-zeyad.github.io/Reading-Notes/401.md/Read08) |
+| Read09  |   [Game of Greed 4](https://tareq-zeyad.github.io/Reading-Notes/401.md/Read09) |
+| Read10 | [ Implementation: Stacks and Queues](https://tareq-zeyad.github.io/Reading-Notes/401.md/Read10) |
+| Read11 | [Data Analysis](https://tareq-zeyad.github.io/Reading-Notes/401.md/Read11) |
+| Read12 | [ Topic](https://tareq-zeyad.github.io/Reading-Notes/401.md/Read12) |
+| Read13 | [Linear Regressions](https://tareq-zeyad.github.io/Reading-Notes/401.md/Read13) |
+| Read14 | [Data Visualization](https://tareq-zeyad.github.io/Reading-Notes/401.md/Read14) |
+| Read15 | [Implementation: Trees](https://tareq-zeyad.github.io/Reading-Notes/401.md/Read15) |
+| Read16 | [Machine Learning Intro](https://tareq-zeyad.github.io/Reading-Notes/401.md/Read16) |
+| Read17 | [Web Scraping](https://tareq-zeyad.github.io/Reading-Notes/401.md/Read17) |
+| Read18 | [Cryptography](https://tareq-zeyad.github.io/Reading-Notes/401.md/Read18) |
+| Read19 | [Automation](https://tareq-zeyad.github.io/Reading-Notes/401.md/Read19) |
