@@ -86,3 +86,4 @@
 | Read19 | [Automation](https://tareq-zeyad.github.io/Reading-Notes/401.md/Read19) |
 | Read26 | [Intro to Django](https://tareq-zeyad.github.io/Reading-Notes/401.md/Read26) |
 | Read27 | [Django Models](https://tareq-zeyad.github.io/Reading-Notes/401.md/Read27) |
+| Read28 | [Django Forms](https://tareq-zeyad.github.io/Reading-Notes/401.md/Read28) |
