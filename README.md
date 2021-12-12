@@ -89,3 +89,4 @@
 | Read28 | [Django Forms](https://tareq-zeyad.github.io/Reading-Notes/401.md/Read28) |
 | Read29 | [Django Custom User](https://tareq-zeyad.github.io/Reading-Notes/401.md/Read29) |
 | Read30 | [Hash Tables](https://tareq-zeyad.github.io/Reading-Notes/401.md/Read30) |
+| Read32 | [Permissions & Postgresql](https://tareq-zeyad.github.io/Reading-Notes/401.md/Read32) |
