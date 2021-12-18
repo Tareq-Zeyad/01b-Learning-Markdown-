@@ -91,3 +91,4 @@
 | Read30 | [Hash Tables](https://tareq-zeyad.github.io/Reading-Notes/401.md/Read30) |
 | Read32 | [Permissions & Postgresql](https://tareq-zeyad.github.io/Reading-Notes/401.md/Read32) |
 | Read33 | [Authentication & Production Server](https://tareq-zeyad.github.io/Reading-Notes/401.md/Read33) |
+| Read36 | [Whiteboard Advice.](https://tareq-zeyad.github.io/Reading-Notes/401.md/Read36) |
