@@ -92,3 +92,5 @@
 | Read32 | [Permissions & Postgresql](https://tareq-zeyad.github.io/Reading-Notes/401.md/Read32) |
 | Read33 | [Authentication & Production Server](https://tareq-zeyad.github.io/Reading-Notes/401.md/Read33) |
 | Read36 | [Whiteboard Advice.](https://tareq-zeyad.github.io/Reading-Notes/401.md/Read36) |
+| Read36 | [Whiteboard Advice.](https://tareq-zeyad.github.io/Reading-Notes/401.md/Read36) |
+| Read37 | [REACT 1](https://tareq-zeyad.github.io/Reading-Notes/401.md/Read37) |
