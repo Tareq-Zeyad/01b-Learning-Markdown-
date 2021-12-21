@@ -95,3 +95,4 @@
 | Read36 | [Whiteboard Advice.](https://tareq-zeyad.github.io/Reading-Notes/401.md/Read36) |
 | Read37 | [REACT 1](https://tareq-zeyad.github.io/Reading-Notes/401.md/Read37) |
 | Read38 | [REACT 2](https://tareq-zeyad.github.io/Reading-Notes/401.md/Read38) |
+| Read39 | [REACT 3](https://tareq-zeyad.github.io/Reading-Notes/401.md/Read39) |
