@@ -97,4 +97,4 @@
 | Read38 | [REACT 2](https://tareq-zeyad.github.io/Reading-Notes/401.md/Read38) |
 | Read39 | [REACT 3](https://tareq-zeyad.github.io/Reading-Notes/401.md/Read39) |
 | Read41 | [REACT 4](https://tareq-zeyad.github.io/Reading-Notes/401.md/READ41) |
-| Read42 | [Pythonisms](https://tareq-zeyad.github.io/Reading-Notes/401.md/READ42) |
+| Read42 | [Pythonisms](https://tareq-zeyad.github.io/Reading-Notes/401.md/Read42) |
